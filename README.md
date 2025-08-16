@@ -47,6 +47,7 @@ Run the mock backend (JSON Server):
 npm run server
 ```
 The app will be available at http://localhost:5173
+<br/>
 The JSON server will run on http://localhost:9000
 
 ---
@@ -84,13 +85,13 @@ The JSON server will run on http://localhost:9000
 
 ## 🌟 Future Improvements
 
-. 🌐 Connect to a real backend (e.g., Firebase, Supabase)
+- 🌐 Connect to a real backend (e.g., Firebase, Supabase)
 
-. 📱 Make the app fully responsive
+- 📱 Make the app fully responsive
 
-. ✨ Add animations and better UX transitions
+- ✨ Add animations and better UX transitions
 
-. 🧭 Improve map features (marker clustering, categories, filters)
+- 🧭 Improve map features (marker clustering, categories, filters)
 
 ---
 
