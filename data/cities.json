@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "flag": "pt",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "flag": "es",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "flag": "de",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Shiraz",
+      "country": "Iran (Islamic Republic of)",
+      "flag": "ir",
+      "date": "2025-08-14T03:36:05.095Z",
+      "notes": "test",
+      "position": {
+        "lat": "29.602934459142574",
+        "lng": "52.60253906250001"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Tehran",
+      "country": "Iran (Islamic Republic of)",
+      "flag": "ir",
+      "date": "2025-06-18T05:19:37.000Z",
+      "notes": "عالی",
+      "position": {
+        "lat": "35.71105149043273",
+        "lng": "51.416015625"
+      },
+      "id": 98443200
+    }
+  ]
+}
