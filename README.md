@@ -98,5 +98,7 @@ The JSON server will run on http://localhost:9000
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE).
 
+---
+
 ## 👨‍💻 Author
 Ali Delgoshaei
