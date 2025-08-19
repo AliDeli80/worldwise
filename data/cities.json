@@ -47,18 +47,6 @@
         "lng": "52.60253906250001"
       },
       "id": 98443199
-    },
-    {
-      "cityName": "Tehran",
-      "country": "Iran (Islamic Republic of)",
-      "flag": "ir",
-      "date": "2025-06-18T05:19:37.000Z",
-      "notes": "عالی",
-      "position": {
-        "lat": "35.71105149043273",
-        "lng": "51.416015625"
-      },
-      "id": 98443200
     }
   ]
 }
