@@ -1,6 +1,6 @@
 # 🌍 Worldwise
 
-**Worldwise** is a React + Vite application that lets users explore the world through an interactive map and track places they’ve visited. It includes **authentication**, **protected routes**, and a local backend. Built with modern React features like **Context API**, **useReducer**, **React Router (useNavigate)**, and **React-Leaflet**.
+**Worldwise** is a React + Vite application that lets users explore the world through an interactive map and track places they’ve visited. It includes **authentication**, **protected routes**, and a local backend. Built with modern React features like **Context API**, **useReducer**, **React Router (useNavigate)**, and **React-Leaflet**, **lazy loading**, and **performance optimizations with useCallback**.
 
 ---
 
@@ -14,7 +14,9 @@
 - ⚛️ Global state management with **Context API + useReducer**  
 - 🛤 Navigation and redirects using **React Router + useNavigate**  
 - ⚡ Built with **Vite** for a fast development environment  
-- 🎨 Scoped styling with **CSS Modules**  
+- 🎨 Scoped styling with **CSS Modules**
+- 🖼 **Lazy loading** for optimized performance
+- ⚡ **useCallback** for memoized functions and reduced re-renders
 
 ---
 
@@ -25,7 +27,8 @@
 - **React Router v6** (`useNavigate`, protected routes)  
 - **React-Leaflet + Leaflet** for maps  
 - **JSON Server** as a mock backend  
-- **CSS Modules** for styling  
+- **CSS Modules** for styling
+- **useCallback** for performance optimization
 
 ---
 
@@ -65,6 +68,10 @@ The JSON server will run on http://localhost:9000
 **5- State Management** – Global state handled with Context API + useReducer.
 
 **6- Backend (JSON Server)** – Stores trips and visited places in a mock database.
+
+**7- Lazy Loading** – Routes and components are loaded on demand for better performance.
+
+**8- useCallback Optimization** – Memoized functions to prevent unnecessary re-renders.
 
 --- 
 
